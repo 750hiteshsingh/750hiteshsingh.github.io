@@ -1,0 +1,51 @@
+html{
+    scroll-behavior: smooth;
+}
+div{
+    color: cyan;
+
+}
+body{
+    font-family: "monospace",sans-serif ;
+    font-size:16px ;
+    background-image:url("pics/gaming-backgrounds-games_5.jpg");
+    background-repeat: repeat;
+    background-position-x: center;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+
+}
+
+h1{
+    font-family: "Old English Text MT";
+    box-shadow: orangered;
+    text-align: center;
+    text-shadow: 0 0 15px red;
+
+
+}
+h2{
+    font-family: Jokerman, "Lucida Handwriting";
+    background:linear-gradient(to right , chocolate,maroon,lightgreen);
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 0 10px black;
+}
+p{
+    text-align: center;
+    color: whitesmoke;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+img , iframe{
+    border: 5px solid white;
+    box-shadow: 0 0 10px black;
+    border-radius: 10px;
+}
+td{
+    font-size: large;
+    font-style: oblique;
+}
